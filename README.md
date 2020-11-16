@@ -59,7 +59,6 @@ All necessary files to build the container are placed in the ```build``` folder:
 .
 ├── Dockerfile
 ├── LICENSE
-├── README copy.md
 ├── README.md
 ├── flsmidth.png
 ├── images
