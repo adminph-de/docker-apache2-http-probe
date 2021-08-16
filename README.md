@@ -153,4 +153,4 @@ Project Link: [https://github.com/adminph-de/docker-apache2-http-probe](https://
 [license-url]: https://github.com/adminph-de/docker-apache2-http-probe/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/patrickhayo/?locale=en_US
-[screenshot]: https://github.com/adminph-de/docker-apache2-http-probe/blob/74903e1d3da8910cb6d05497f9e3b6dd8ae29593/images/screen.png
+[screenshot]: https://github.com/adminph-de/docker-apache2-http-probe/blob/main/images/screen.png
